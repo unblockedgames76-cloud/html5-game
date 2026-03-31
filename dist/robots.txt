@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Sitemap: https://unblockgame76.netlify.app/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
