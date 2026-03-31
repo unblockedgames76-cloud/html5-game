@@ -1,0 +1,218 @@
+{
+  "site": {
+    "name": "Unblocked Games 76",
+    "domain": "unblockgame76.netlify.app",
+    "description": "Play 1000+ free unblocked games online at school or work. No downloads required. Instant play in your browser.",
+    "keywords": "unblocked games, free games, online games, browser games, school games, unblocked games 76, no download games",
+    "footer": "All games are provided by their respective owners.",
+    "gamesPerPage": 48,
+    "googleAnalytics": "G-82EZT3S9HY",
+    "customDomain": ""
+  },
+  "seo": {
+    "homepageTitle": "{siteName} - Play {gameCount}+ Free Unblocked Games Online",
+    "homepageH1": "🎮 {siteName} - Play Free Online",
+    "sections": [
+      {
+        "title": "Play Free Unblocked Games Online",
+        "content": "{siteName} offers over {gameCount} free online games that you can play at school, work, or anywhere. All games run directly in your browser - no downloads, no installs, no flash required. Our games are regularly updated and 100% unblocked."
+      },
+      {
+        "title": "Why Play Unblocked Games?",
+        "content": "<ul><li><strong>No Downloads Required</strong> - Play instantly in any modern browser</li><li><strong>100% Free</strong> - All games are completely free to play</li><li><strong>Works Everywhere</strong> - Play at school, work, or home</li><li><strong>1000+ Games</strong> - Huge collection of action, puzzle, racing, and more</li><li><strong>Mobile Friendly</strong> - Works on phones and tablets too</li></ul>"
+      },
+      {
+        "title": "Popular Game Categories",
+        "content": "Browse our collection by category: Action games for intense gameplay, Puzzle games to challenge your brain, Racing games for speed lovers, Sports games for competition, and many more."
+      }
+    ]
+  },
+  "gameTemplates": {
+    "metaTitle": "{title} - Play Free Unblocked | {siteName}",
+    "metaDesc": "Play {title} unblocked for free online. No download required. Enjoy this and {gameCount}+ more free games at {siteName}.",
+    "h1": "Play {title} Unblocked",
+    "introText": "Play {title} for free online. This game is unblocked and can be played at school or work. No download required - just click and play instantly in your browser!",
+    "howToPlay": "Use your mouse and keyboard to control the game. Click the fullscreen button for the best experience. If the game does not load, try refreshing the page or click the reload button.",
+    "aboutContent": "{title} is a free online {categoryLower} game. It is part of our collection of over {gameCount} unblocked games that you can play anytime, anywhere. Enjoy {title} and explore more games in our {category} category!",
+    "howToPlayTitle": "How to Play {title}",
+    "aboutTitle": "About {title}"
+  },
+  "categories": [
+    {
+      "slug": "action",
+      "name": "Action Games",
+      "keywords": [
+        "fight",
+        "battle",
+        "war",
+        "attack",
+        "combat",
+        "shoot",
+        "gun",
+        "bullet",
+        "destroy",
+        "army",
+        "soldier",
+        "hero",
+        "sword",
+        "ninja"
+      ],
+      "description": "Intense action games with fighting, shooting, and combat"
+    },
+    {
+      "slug": "puzzle",
+      "name": "Puzzle Games",
+      "keywords": [
+        "puzzle",
+        "brain",
+        "match",
+        "logic",
+        "think",
+        "solve",
+        "block",
+        "connect",
+        "merge",
+        "tetris"
+      ],
+      "description": "Challenge your brain with puzzle and logic games"
+    },
+    {
+      "slug": "racing",
+      "name": "Racing Games",
+      "keywords": [
+        "race",
+        "racing",
+        "car",
+        "drive",
+        "drift",
+        "speed",
+        "truck",
+        "moto",
+        "bike",
+        "vehicle",
+        "road"
+      ],
+      "description": "High-speed racing and driving games"
+    },
+    {
+      "slug": "sports",
+      "name": "Sports Games",
+      "keywords": [
+        "sport",
+        "ball",
+        "soccer",
+        "football",
+        "basket",
+        "tennis",
+        "golf",
+        "boxing",
+        "wrestling"
+      ],
+      "description": "Sports and athletic competition games"
+    },
+    {
+      "slug": "adventure",
+      "name": "Adventure Games",
+      "keywords": [
+        "adventure",
+        "quest",
+        "explore",
+        "journey",
+        "world",
+        "island",
+        "kingdom",
+        "pirate"
+      ],
+      "description": "Epic adventure and exploration games"
+    },
+    {
+      "slug": "arcade",
+      "name": "Arcade Games",
+      "keywords": [
+        "arcade",
+        "classic",
+        "retro",
+        "pixel",
+        "jump",
+        "run",
+        "dodge",
+        "collect",
+        "coin"
+      ],
+      "description": "Classic arcade-style games"
+    },
+    {
+      "slug": "io",
+      "name": "IO Games",
+      "keywords": [
+        ".io",
+        "io",
+        "multiplayer",
+        "online",
+        "arena",
+        "battle royale"
+      ],
+      "description": "Multiplayer .io games"
+    },
+    {
+      "slug": "strategy",
+      "name": "Strategy Games",
+      "keywords": [
+        "strategy",
+        "tower",
+        "defense",
+        "build",
+        "empire",
+        "conquest",
+        "base",
+        "resource",
+        "tycoon",
+        "idle"
+      ],
+      "description": "Strategic thinking and planning games"
+    },
+    {
+      "slug": "cooking",
+      "name": "Cooking Games",
+      "keywords": [
+        "cook",
+        "food",
+        "pizza",
+        "burger",
+        "restaurant",
+        "papa",
+        "kitchen",
+        "cake",
+        "donut",
+        "taco"
+      ],
+      "description": "Fun cooking and restaurant games"
+    },
+    {
+      "slug": "shooting",
+      "name": "Shooting Games",
+      "keywords": [
+        "shoot",
+        "sniper",
+        "gun",
+        "fps",
+        "bullet",
+        "weapon",
+        "target",
+        "aim"
+      ],
+      "description": "Shooting and aiming games"
+    }
+  ],
+  "gameOverrides": {
+    "class-1": {
+      "category": "other",
+      "description": "Zooplop is a physics-based puzzle game where you drop animals from a mechanical claw. When two animals of the same kind touch they merge into bigger ones!",
+      "metaDesc": "Zooplop is a physics-based puzzle game where you drop animals from a mechanical claw. When two animals of the same kind touch they merge into bigger ones!",
+      "introText": "Plan your moves carefully and avoid dropping too many animals at once, or you might run out of space. The game goes on forever or until all animals fill up the screen. Zooplop is easy to play but hard to master. How big can you go? Can you reach the whale? Can you merge the whale?",
+      "howToPlay": "To move the animals, left-click and hold your mouse, then release it to drop them. Alternatively, you can use the A/D keys or the left and right arrow keys to move the animals, and the S key or the down arrow key to drop them!",
+      "aboutContent": "Who created Zooplop?\nZooplop is created by Venturous. Play their other game on Poki: Gobdun, Catpad, and Cubies!\n\nHow can I play Zooplop for free?\nYou can play Zooplop for free on Poki.\n\nCan I play Zooplop on mobile devices and desktop?\nZooplop can be played on your computer and mobile devices like phones and tablets.",
+      "metaTitle": "ZOOPLOP - Play Online for Free"
+    }
+  }
+}

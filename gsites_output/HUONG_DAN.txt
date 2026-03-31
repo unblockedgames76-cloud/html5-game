@@ -1,0 +1,34 @@
+
+╔══════════════════════════════════════════════════╗
+║    HƯỚNG DẪN SỬ DỤNG - Google Sites Generator   ║
+╚══════════════════════════════════════════════════╝
+
+📁 Thư mục gsites_output/ chứa:
+
+1️⃣  homepage_grid.html
+    → Mở file này, copy TOÀN BỘ nội dung
+    → Google Sites → Insert → Embed → "Embed code"
+    → Paste vào → Insert
+    → Đây là grid game cho trang chủ
+
+2️⃣  games/*.html (50 files)
+    → Mỗi file = 1 trang game
+    → Tạo sub-page mới trên Google Sites
+    → Insert → Embed → "Embed code"  
+    → Paste nội dung file .html tương ứng
+
+3️⃣  game_list_reference.md
+    → Danh sách tất cả game + URL iframe
+    → Dùng để tham khảo khi cần embed thủ công
+
+═══════════════════════════════════════════════════
+
+⚡ CÁCH NHANH NHẤT:
+   1. Tạo Google Sites mới
+   2. Set theme tím (Diplomat/Vision)
+   3. Embed homepage_grid.html vào trang chủ
+   4. Tạo sub-pages cho mỗi game phổ biến
+   5. Embed game HTML vào mỗi sub-page
+   6. Publish!
+
+═══════════════════════════════════════════════════
