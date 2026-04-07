@@ -300,13 +300,13 @@ ${ogImage ? `<meta property="og:image" content="${ogImage}">` : ''}
 <style>${CSS}</style>
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>` : ''}
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-780CDB3KXM"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J2HQ48QKY3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-780CDB3KXM');
+  gtag('config', 'G-J2HQ48QKY3');
 </script>
 </head>
 <body>
