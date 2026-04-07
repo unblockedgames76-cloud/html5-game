@@ -15,7 +15,7 @@ const CONFIG_PATH = path.join(__dirname, 'config.json');
 const config = fs.existsSync(CONFIG_PATH) ? JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf-8')) : {};
 
 const SITE_NAME = config.site?.name || 'Unblocked Games 76';
-const SITE_DOMAIN = config.site?.domain || 'YOUR_USERNAME.github.io';
+const SITE_DOMAIN = config.site?.domain || 'html5-game-ashen.vercel.app';
 const SITE_URL = `https://${SITE_DOMAIN}`;
 const SITE_DESCRIPTION = config.site?.description || 'Play 1000+ free unblocked games online.';
 const GAMES_PER_PAGE = config.site?.gamesPerPage || 48;
